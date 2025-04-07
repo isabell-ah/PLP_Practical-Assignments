@@ -1,0 +1,3 @@
+[submodule "python_assignment"]
+	path = python_assignment
+	url = https://github.com/isabell-ah/PLP_Practical-Assignments.git
